@@ -17,7 +17,7 @@
         <v-col cols="12" md="4">
           <v-card elevation="3" class="mb-4 rounded-lg">
             <v-card-item class="bg-primary text-white">
-              <v-card-title>Profil Mahasiswa</v-card-title>
+              <v-card-title>Data Bimbingan</v-card-title>
             </v-card-item>
 
             <v-card-text class="pt-4">
